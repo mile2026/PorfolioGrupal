@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Gomez Milena",
+        "role": "Desarrollador Frontend",
+        "avatar":  "https://api.dicebear.com/10.x/avataaars/svg"
+    },
+    {
+        "name": "Gil Tiziano",
+        "role": "Diseñador UX/UI",
+        "avatar": "https://api.dicebear.com/10.x/big-ears-neutral/svg"
+    },
+    {
+        "name": "Brizuela Mia",
+        "role": "Desarrollador Backend",
+        "avatar": "https://api.dicebear.com/10.x/micah/svg"
+    }
+]
