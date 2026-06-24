@@ -7,11 +7,26 @@
     {
         "name": "Gil Tiziano",
         "role": "Diseñador UX/UI",
-        "avatar": "https://api.dicebear.com/10.x/big-ears-neutral/svg"
+        "avatar": "https://api.dicebear.com/10.x/notionists/svg"
     },
     {
         "name": "Brizuela Mia",
         "role": "Desarrollador Backend",
         "avatar": "https://api.dicebear.com/10.x/micah/svg"
+    },
+    { 
+        "name": "Ferreyra Zaira",
+        "role": "Desarrollador Fullstack",
+        "avatar":  "https://api.dicebear.com/10.x/notionists-neutral/svg"
+    },
+    {
+        "name": "Tapia Angeles",
+        "role": "Desarrollador Frontend",
+        "avatar":  "https://api.dicebear.com/10.x/open-peeps/svg"
+    },
+    {
+        "name": "Nieto Marianela",
+        "role": "Desarrollador Frontend",           
+        "avatar":  "https://api.dicebear.com/10.x/adventurer-neutral/svg"
     }
 ]
