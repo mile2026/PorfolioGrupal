@@ -2,12 +2,12 @@
     {
         "name": "Gomez Milena",
         "role": "Desarrollador Frontend",
-        "avatar":  "https://api.dicebear.com/10.x/avataaars/svg"
+        "avatar":  "https://api.dicebear.com/10.x/lorelei/svg?eyebrowsVariant=variant12&eyesVariant=variant13&mouthVariant=sad05&hairVariant=variant15&headVariant=variant04&glassesVariant=&seed=milena%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20"
     },
     {
-        "name": "Gil Tiziano",
-        "role": "Diseñador UX/UI",
-        "avatar": "https://api.dicebear.com/10.x/notionists/svg"
+        "name": "Neira Rocio",
+        "role": "Desarrollador Backend",
+        "avatar": "https://api.dicebear.com/10.x/lorelei/svg?eyebrowsVariant=variant12&eyesVariant=variant13&mouthVariant=sad05&hairVariant=variant15&headVariant=variant04&glassesVariant=&seed=Rocio"
     },
     {
         "name": "Brizuela Mia",
@@ -27,6 +27,6 @@
     {
         "name": "Nieto Marianela",
         "role": "Desarrollador Frontend",           
-        "avatar":  "https://api.dicebear.com/10.x/adventurer-neutral/svg"
+        "avatar":  "https://api.dicebear.com/10.x/avataaars/svg?seed=%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20o%20%20%20%20p%20%20%20%20%20%20%20%20%20%20%20%20"
     }
 ]

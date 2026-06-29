@@ -1,7 +1,7 @@
 :root {
-    --bg-dark: #020617;
-    --primary-color: #e90ea7;
-    --accent-color: #38bdf8;
+    --bg-dark: #e99c70;
+    --primary-color: #092935;
+    --accent-color: #4b38f8;
     --glass-bg: rgba(255, 255, 255, 0.03);
     --glass-border: rgba(255, 255, 255, 0.08);
     --text-main: #f8fafc;
@@ -57,7 +57,7 @@ body {
 .blob-2 {
     width: 45vh;
     height: 45vh;
-    background: radial-gradient(circle, #38bdf8, #0284c7);
+    background: radial-gradient(circle, #ad0aee, #0284c7);
     bottom: -10%;
     right: 5%;
     animation-delay: -5s;
